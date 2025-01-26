@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Joshi</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjoshi1998&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjoshi1998" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhishekjoshi1998&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjoshi1998" />
+</p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development at Masai School**
 
@@ -70,5 +72,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=abhishekjoshi1998&theme=dark" alt="abhishekjoshi1998" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekjoshi1998&theme=dark" alt="abhishekjoshi1998" />
 </p>
